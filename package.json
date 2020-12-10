@@ -1,0 +1,28 @@
+{
+  "name": "sprint-7-sprint-evaluation-route-with-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omur8819/sprint-7-sprint-evaluation-route-with-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omur8819/sprint-7-sprint-evaluation-route-with-express/issues"
+  },
+  "homepage": "https://github.com/omur8819/sprint-7-sprint-evaluation-route-with-express#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
